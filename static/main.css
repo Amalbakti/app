@@ -22,8 +22,8 @@ code {
 }
 
 .App-header {
-    background-color: #282c34;
-    min-height: 100vh;
+    background-color: #10e946;
+    min-height: 10vh;
     display: flex;
     flex-direction: column;
     align-items: center;
